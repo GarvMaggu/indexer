@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+require("module-alias/register");
 const dotenv_1 = require("dotenv");
 (0, dotenv_1.config)();
 require("@/common/tracer");

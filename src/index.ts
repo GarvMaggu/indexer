@@ -1,3 +1,4 @@
+import "module-alias/register";
 import { config as dotEnvConfig } from "dotenv";
 dotEnvConfig();
 
