@@ -1,4 +1,3 @@
-import "module-alias/register";
 import "@/common/tracer";
 import "@/jobs/index";
 import "@/pubsub/index";

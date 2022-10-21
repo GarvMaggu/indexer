@@ -86,18 +86,6 @@
     "uuid-by-string": "^3.0.7",
     "winston": "^3.3.3"
   },
-  "_moduleAliases": {
-    "@/api": "dist/api",
-    "@/arweave-sync": "dist/sync/arweave",
-    "@/common": "dist/common",
-    "@/config": "dist/config",
-    "@/models": "dist/models",
-    "@/utils": "dist/utils",
-    "@/jobs": "dist/jobs",
-    "@/orderbook": "dist/orderbook",
-    "@/events-sync": "dist/sync/events",
-    "@/pubsub": "dist/pubsub"
-  },
   "devDependencies": {
     "tsconfig-paths": "^4.1.0"
   }
