@@ -1,0 +1,1 @@
+{"version":3,"file":"token.d.ts","sourceRoot":"","sources":["../../../../../../src/orderbook/orders/looks-rare/build/buy/token.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,GAAG,MAAM,kBAAkB,CAAC;AAOxC,OAAO,KAAK,KAAK,MAAM,2CAA2C,CAAC;AAEnE,UAAU,iBAAkB,SAAQ,KAAK,CAAC,qBAAqB;IAC7D,OAAO,EAAE,MAAM,CAAC;CACjB;AAED,eAAO,MAAM,KAAK,YAAmB,iBAAiB,6CAoCrD,CAAC"}

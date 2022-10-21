@@ -1,0 +1,1 @@
+{"version":3,"file":"errors.d.ts","sourceRoot":"","sources":["../../../../../src/jobs/orderbook/post-order-external/api/errors.ts"],"names":[],"mappings":"AAAA,qBAAa,wBAAyB,SAAQ,KAAK;IACjD,KAAK,SAAK;gBAEE,OAAO,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM;CAM3C;AAED,qBAAa,mBAAoB,SAAQ,KAAK;gBAChC,OAAO,EAAE,MAAM;CAK5B"}

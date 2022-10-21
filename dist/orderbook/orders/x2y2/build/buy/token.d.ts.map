@@ -1,0 +1,1 @@
+{"version":3,"file":"token.d.ts","sourceRoot":"","sources":["../../../../../../src/orderbook/orders/x2y2/build/buy/token.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,GAAG,MAAM,kBAAkB,CAAC;AAIxC,OAAO,KAAK,KAAK,MAAM,qCAAqC,CAAC;AAE7D,UAAU,iBAAkB,SAAQ,KAAK,CAAC,qBAAqB;IAC7D,OAAO,EAAE,MAAM,CAAC;CACjB;AAED,eAAO,MAAM,KAAK,YAAmB,iBAAiB,uCAuBrD,CAAC"}

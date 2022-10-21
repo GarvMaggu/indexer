@@ -1,0 +1,1 @@
+{"version":3,"file":"contract-wide.d.ts","sourceRoot":"","sources":["../../../src/orderbook/token-sets/contract-wide.ts"],"names":[],"mappings":"AAMA,oBAAY,QAAQ,GAAG;IACrB,EAAE,EAAE,MAAM,CAAC;IACX,UAAU,EAAE,MAAM,CAAC;IAEnB,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,QAAQ,EAAE,MAAM,CAAC;CAClB,CAAC;AAcF,eAAO,MAAM,IAAI,cAAqB,QAAQ,EAAE,KAAG,QAAQ,QAAQ,EAAE,CA6GpE,CAAC"}

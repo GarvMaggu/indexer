@@ -1,0 +1,1 @@
+{"version":3,"file":"backfill-transaction-block-fields.d.ts","sourceRoot":"","sources":["../../../src/jobs/backfill/backfill-transaction-block-fields.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,KAAK,EAA0B,MAAM,QAAQ,CAAC;AAavD,eAAO,MAAM,KAAK,yBAOhB,CAAC;AAkFH,eAAO,MAAM,UAAU,SAAgB,MAAM,kBAE5C,CAAC"}

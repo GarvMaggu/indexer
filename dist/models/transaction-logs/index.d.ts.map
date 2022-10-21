@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/models/transaction-logs/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,kCAAkC,CAAC;AAKvD,oBAAY,eAAe,GAAG;IAC5B,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,GAAG,EAAE,CAAC;CACb,CAAC;AAEF,eAAO,MAAM,mBAAmB,oBAA2B,eAAe,6BAmBzE,CAAC;AAEF,eAAO,MAAM,kBAAkB,SAAgB,MAAM,KAAG,QAAQ,eAAe,CAgB9E,CAAC"}

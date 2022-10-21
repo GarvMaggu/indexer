@@ -1,0 +1,1 @@
+{"version":3,"file":"collection.d.ts","sourceRoot":"","sources":["../../../../../../src/orderbook/orders/x2y2/build/buy/collection.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,GAAG,MAAM,kBAAkB,CAAC;AAIxC,OAAO,KAAK,KAAK,MAAM,qCAAqC,CAAC;AAE7D,UAAU,iBAAkB,SAAQ,KAAK,CAAC,qBAAqB;IAC7D,UAAU,EAAE,MAAM,CAAC;CACpB;AAED,eAAO,MAAM,KAAK,YAAmB,iBAAiB,uCAqBrD,CAAC"}

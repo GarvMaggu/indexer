@@ -1,0 +1,1 @@
+{"version":3,"file":"update-top-bid-queue.d.ts","sourceRoot":"","sources":["../../../src/jobs/nft-balance-updates/update-top-bid-queue.ts"],"names":[],"mappings":"AAAA,OAAO,EAAO,KAAK,EAA0B,MAAM,QAAQ,CAAC;AAU5D,eAAO,MAAM,KAAK,yBAYhB,CAAC;AA0EH,oBAAY,gBAAgB,GAAG;IAC7B,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;CACjB,CAAC;AAEF,eAAO,MAAM,UAAU,UAAiB,gBAAgB,EAAE,kBAOzD,CAAC"}

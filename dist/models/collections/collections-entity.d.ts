@@ -1,0 +1,96 @@
+/// <reference types="node" />
+export declare type CollectionsEntityUpdateParams = {
+    id?: string;
+    slug?: string;
+    name?: string;
+    metadata?: string;
+    royalties?: string;
+    community?: string;
+    contract?: string;
+    tokenIdRange?: string;
+    tokenSetId?: string;
+    nonFlaggedTokenSetId?: string | null;
+    tokenCount?: number;
+    createdAt?: string;
+    updatedAt?: string;
+    day1Volume?: number;
+    day1Rank?: number;
+    day7Volume?: number;
+    day7Rank?: number;
+    day30Volume?: number;
+    day30Rank?: number;
+    allTimeVolume?: number;
+    allTimeRank?: number;
+    indexMetadata?: boolean;
+    lastMetadataSync?: string;
+    floorSellValue?: number;
+};
+export declare type CollectionsMetadata = {
+    imageUrl?: string | undefined;
+    discordUrl?: string | undefined;
+    description?: string | undefined;
+    externalUrl?: string | undefined;
+    bannerImageUrl?: string | undefined;
+    twitterUsername?: string | undefined;
+    openseaVerificationStatus?: string | undefined;
+};
+export declare type CollectionsRoyalties = {
+    bps: number;
+    recipient: string;
+};
+export declare type CollectionsEntityParams = {
+    id: string;
+    slug: string;
+    name: string;
+    metadata: CollectionsMetadata;
+    royalties: CollectionsRoyalties[];
+    community: string;
+    contract: Buffer;
+    token_id_range: string;
+    token_set_id: string;
+    non_flagged_token_set_id: string;
+    token_count: number;
+    created_at: string;
+    updated_at: string;
+    day1_volume: number;
+    day1_rank: number;
+    day7_volume: number;
+    day7_rank: number;
+    day30_volume: number;
+    day30_rank: number;
+    all_time_volume: number;
+    all_time_rank: number;
+    index_metadata: boolean;
+    last_metadata_sync: string;
+    minted_timestamp: number;
+    floor_sell_value: number;
+};
+export declare class CollectionsEntity {
+    id: string;
+    slug: string;
+    name: string;
+    metadata: CollectionsMetadata;
+    royalties: CollectionsRoyalties[];
+    community: string;
+    contract: string;
+    tokenIdRange: number[];
+    tokenSetId: string;
+    nonFlaggedTokenSetId: string;
+    tokenCount: number;
+    createdAt: string;
+    updatedAt: string;
+    day1Volume: number;
+    day1Rank: number;
+    day7Volume: number;
+    day7Rank: number;
+    day30Volume: number;
+    day30Rank: number;
+    allTimeVolume: number;
+    allTimeRank: number;
+    indexMetadata: boolean;
+    lastMetadataSync: string;
+    mintedTimestamp: number;
+    floorSellValue: number;
+    constructor(params: CollectionsEntityParams);
+}
+//# sourceMappingURL=collections-entity.d.ts.map

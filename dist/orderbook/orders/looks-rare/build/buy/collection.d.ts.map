@@ -1,0 +1,1 @@
+{"version":3,"file":"collection.d.ts","sourceRoot":"","sources":["../../../../../../src/orderbook/orders/looks-rare/build/buy/collection.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,GAAG,MAAM,kBAAkB,CAAC;AAKxC,OAAO,KAAK,KAAK,MAAM,2CAA2C,CAAC;AAEnE,UAAU,iBAAkB,SAAQ,KAAK,CAAC,qBAAqB;IAC7D,UAAU,EAAE,MAAM,CAAC;CACpB;AAED,eAAO,MAAM,KAAK,YAAmB,iBAAiB,iCAwBrD,CAAC"}

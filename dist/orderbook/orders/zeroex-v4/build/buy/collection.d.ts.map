@@ -1,0 +1,1 @@
+{"version":3,"file":"collection.d.ts","sourceRoot":"","sources":["../../../../../../src/orderbook/orders/zeroex-v4/build/buy/collection.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,GAAG,MAAM,kBAAkB,CAAC;AASxC,OAAO,KAAK,KAAK,MAAM,0CAA0C,CAAC;AAElE,UAAU,iBAAkB,SAAQ,KAAK,CAAC,qBAAqB;IAC7D,UAAU,EAAE,MAAM,CAAC;CACpB;AAED,eAAO,MAAM,KAAK,YAAmB,iBAAiB,4CAyHrD,CAAC"}

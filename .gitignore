@@ -5,8 +5,8 @@ node_modules
 .env
 
 # Build
-dist
-tsconfig.tsbuildinfo
+# dist
+# tsconfig.tsbuildinfo
 
 # Misc
 yarn-error.log

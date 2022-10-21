@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/models/transaction-traces/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,0CAA0C,CAAC;AAKrE,oBAAY,gBAAgB,GAAG;IAC7B,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,SAAS,CAAC;CAClB,CAAC;AAEF,eAAO,MAAM,oBAAoB,qBAA4B,gBAAgB,8BAmB5E,CAAC;AAEF,eAAO,MAAM,mBAAmB,SAAgB,MAAM,KAAG,QAAQ,gBAAgB,CAgBhF,CAAC"}

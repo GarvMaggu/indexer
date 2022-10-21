@@ -1,0 +1,1 @@
+{"version":3,"file":"backfill-fix-x2y2-orders.d.ts","sourceRoot":"","sources":["../../../src/jobs/backfill/backfill-fix-x2y2-orders.ts"],"names":[],"mappings":"AAAA,OAAO,EAAO,KAAK,EAA0B,MAAM,QAAQ,CAAC;AAW5D,eAAO,MAAM,KAAK,yBAYhB,CAAC;AAsGH,oBAAY,IAAI,GAAG;IACjB,KAAK,EAAE,MAAM,CAAC;IACd,UAAU,EAAE,MAAM,CAAC;CACpB,CAAC;AAEF,eAAO,MAAM,UAAU,UAAiB,IAAI,EAAE,kBAO7C,CAAC"}

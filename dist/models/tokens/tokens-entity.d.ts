@@ -1,0 +1,78 @@
+/// <reference types="node" />
+export declare type TokensEntityUpdateParams = {
+    contract?: Buffer;
+    tokenId?: string;
+    name?: string;
+    description?: string;
+    image?: string;
+    collectionId?: string;
+    metadataIndexed?: boolean;
+    floorSellId?: string;
+    floorSellValue?: number;
+    floorSellMaker?: Buffer;
+    topBuyId?: string;
+    topBuyValue?: number;
+    topBuyMaker?: Buffer;
+    lastSellTimestamp?: number;
+    lastSellValue?: number;
+    lastBuyTimestamp?: number;
+    lastBuyValue?: number;
+    createdAt?: string;
+    updatedAt?: string;
+    attributes?: Buffer;
+    lastMetadataSync?: string;
+    isFlagged?: number;
+    lastFlagUpdate?: string;
+};
+export declare type TokensEntityParams = {
+    contract: Buffer;
+    token_id: string;
+    name: string;
+    description: string;
+    image: string;
+    collection_id: string;
+    metadata_indexed: boolean;
+    floor_sell_id: string;
+    floor_sell_value: number;
+    floor_sell_maker: Buffer;
+    top_buy_id: string;
+    top_buy_value: number;
+    top_buy_maker: Buffer;
+    last_sell_timestamp: number;
+    last_sell_value: number;
+    last_buy_timestamp: number;
+    last_buy_value: number;
+    created_at: string;
+    updated_at: string;
+    attributes: Buffer;
+    last_metadata_sync: string;
+    is_flagged: number;
+    last_flag_update: string;
+};
+export declare class TokensEntity {
+    contract: string;
+    tokenId: string;
+    name: string;
+    description: string;
+    image: string;
+    collectionId: string;
+    metadataIndexed: boolean;
+    floorSellId: string;
+    floorSellValue: number;
+    floorSellMaker: string;
+    topBuyId: string;
+    topBuyValue: number;
+    topBuyMaker: string;
+    lastSellTimestamp: number;
+    lastSellValue: number;
+    lastBuyTimestamp: number;
+    lastBuyValue: number;
+    createdAt: string;
+    updatedAt: string;
+    attributes: string;
+    lastMetadataSync: string;
+    isFlagged: number;
+    lastFlagUpdate: string;
+    constructor(params: TokensEntityParams);
+}
+//# sourceMappingURL=tokens-entity.d.ts.map
